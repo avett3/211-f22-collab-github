@@ -21,11 +21,19 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
+void ccolgr2_avett3()
+{
+  printf("\n\nCody Colgren and Andrew Vetter\n");
+  printf("We learned that in addtion to being able to interact with a repo through a GUI\n");
+  printf("you can also interact with it through the command line!\n");
+}
+
 int main()
 {
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
     
     reed_ekidan2();
+    ccolgr2_avett3();
     
     return 0;
 }
